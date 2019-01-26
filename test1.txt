@@ -1,2 +1,5 @@
 hi i am one of the team member
 welcome all
+every one here 
+devops 
+git
